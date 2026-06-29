@@ -1,0 +1,2141 @@
+canonical_identifier: bkk:krp/KR3ea031/v1
+canonical_location: https://kanripo.org/bkk/KR3ea031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 黃帝內經太素
+  identifiers:
+    krp: KR3ea031
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04410
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea031.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ea031_001.yaml, hash: 'sha256:d99be9692a4c49c9d86357b0255cfc0ce7f2b29f7ac76989a6353d81e7acfe5e'}
+  - {seq: 2, filename: KR3ea031_002.yaml, hash: 'sha256:694adb031e05e9907d0a634f1d91a4603f5594bfcebf925ccbc9faffbd91d010'}
+  - {seq: 3, filename: KR3ea031_003.yaml, hash: 'sha256:6b0380c046c88bca1c5f1e18b1d865ce249a4164047d8f7ee9245e1e4f4986d0'}
+  - {seq: 4, filename: KR3ea031_004.yaml, hash: 'sha256:7b2050ef35dabe9c37f78699c32e9a8ca7c40078951cd71f528d5808f93a8df7'}
+  - {seq: 5, filename: KR3ea031_005.yaml, hash: 'sha256:c17c3c04545f80eafb384087733f5b0eff1274ef3eeea94d7c5a3336da2fed6d'}
+  - {seq: 6, filename: KR3ea031_006.yaml, hash: 'sha256:0e91f5c0c4835d3bdfe59875381c65765008dd48204f68f05264bbe638db2f65'}
+  - {seq: 7, filename: KR3ea031_007.yaml, hash: 'sha256:9680b3c7b5dbaa2c46a576b5134be83f8b09db76ea608d2c131575ed8552ddc8'}
+  - {seq: 8, filename: KR3ea031_008.yaml, hash: 'sha256:3c994e2d8743ba389e22d77436f419994c0c4035e28a2c8c75049ec3533547a1'}
+  - {seq: 9, filename: KR3ea031_009.yaml, hash: 'sha256:d092826d7b3cfbf7d9476c6d951dc824659c77f0a371a1a5a726934bfda7eca1'}
+  - {seq: 10, filename: KR3ea031_010.yaml, hash: 'sha256:17876c973c798c32800e919c6a2ef8fe0728961f310522b41c6fd121f0b69345'}
+  - {seq: 11, filename: KR3ea031_011.yaml, hash: 'sha256:e1a13c22f4cee728f873691086c422baeabd4081be28c2a8645a2c827948bad4'}
+  - {seq: 12, filename: KR3ea031_012.yaml, hash: 'sha256:b1b315978030bf13e8bf7bec64e2aeb103d73dd8c687f6babe189855fec76019'}
+  - {seq: 13, filename: KR3ea031_013.yaml, hash: 'sha256:b34c4ea1ec80b482498f9eeb8b9a7f08a4b6fc891070e1ac5e076df05aa41c68'}
+  - {seq: 14, filename: KR3ea031_014.yaml, hash: 'sha256:a8793b098ad132db1e87c31ae5bbe4fd7ffe2c0e00aa97ade76298c8a12da94e'}
+  - {seq: 15, filename: KR3ea031_015.yaml, hash: 'sha256:39bbb6aab1f75ceb29a9db7708382111779d424ba1967b192e078beae5341fd2'}
+  - {seq: 16, filename: KR3ea031_016.yaml, hash: 'sha256:efeab1309a12eacc1001e0851863de0fe3114e2a7344d516c1c299e956cfa9eb'}
+  - {seq: 17, filename: KR3ea031_017.yaml, hash: 'sha256:fec0429775b80ab25178f763d988feee526ab514addcc97268d99ff436fee44f'}
+  - {seq: 18, filename: KR3ea031_018.yaml, hash: 'sha256:1286d64baadc8b1bf9f950732233694dcce074b20970c62420204c30903e1ad0'}
+  - {seq: 19, filename: KR3ea031_019.yaml, hash: 'sha256:3a602ada3d3987606a8daa9986f58fa7a8ccf7e439d7f08709470abc58db9b61'}
+  - {seq: 20, filename: KR3ea031_020.yaml, hash: 'sha256:ae623b69d56f290a417b0be0c71722768c0cdebba63ddc64b812b528bb3cec4f'}
+  - {seq: 21, filename: KR3ea031_021.yaml, hash: 'sha256:a30ca5ef185980ea6a1f4a4a63349ddc7edf59b73dde6192cbb3c31765ae8f62'}
+  - {seq: 22, filename: KR3ea031_022.yaml, hash: 'sha256:9c59884fb48ee800f84bd6af6ba12518a99492a753ff50d05c3cf6ee1fcbee79'}
+  - {seq: 23, filename: KR3ea031_023.yaml, hash: 'sha256:4aa2431dbfe0e3b62071ddf867ebed6461c6e8255a27063fe5becc15129ebab6'}
+  - {seq: 24, filename: KR3ea031_024.yaml, hash: 'sha256:30df3e4260b215a1d51655023a5685e3a144b134d9460f69816254d68f35fc4f'}
+  - {seq: 25, filename: KR3ea031_025.yaml, hash: 'sha256:e468390868465b469c496d2667c9f18ce15297c3982928919c5541dabab442bb'}
+  - {seq: 26, filename: KR3ea031_026.yaml, hash: 'sha256:9d5d58ae6ba853999710a929151f8f8eecefb17d0ed7430d5d7d753e041de5c2'}
+  - {seq: 27, filename: KR3ea031_027.yaml, hash: 'sha256:224a34c2055cc13730ba6222e5d91e471ea50f58137d87ac7835074d8784627c'}
+  - {seq: 28, filename: KR3ea031_028.yaml, hash: 'sha256:a21bf3ccd81e1afac75a9b6bf422979eb45487ff7351fcde47c4f9aaba8733a0'}
+  - {seq: 29, filename: KR3ea031_029.yaml, hash: 'sha256:ee33263e218109ebfe07e67cc04a2cf8133b0eaa3877384c544634f673ed9680'}
+  - {seq: 30, filename: KR3ea031_030.yaml, hash: 'sha256:7f9f5afc922e723011b6763bcae2e4793ec332e5f324029a96c6c18a5e21d84e'}
+  - {seq: 0, filename: KR3ea031_000.yaml, hash: 'sha256:53a9ac3d1810e02e7bbe796f65a0265238d2c6adc9216ccbef10b63678a997be'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR3ea031_002.markers.yaml, hash: 'sha256:bc99fba808965733d8c60393caa1e7bb47c0ce0483b2a13da510a40f34501ddd'}
+  - {seq: 3, role: markers, filename: assets/KR3ea031_003.markers.yaml, hash: 'sha256:9a8d84d0b32cc2c37c303edc7c9b80a2b3016336269d77481ae213f02a8d456b'}
+  - {seq: 5, role: markers, filename: assets/KR3ea031_005.markers.yaml, hash: 'sha256:121e2b7b452019a2e500faac69adc1fb0c07f3cc1d32403e5c80d34bd82ae286'}
+  - {seq: 6, role: markers, filename: assets/KR3ea031_006.markers.yaml, hash: 'sha256:9d0baae319f026e4ec6586c452f0b8d385e07a407f968f9b2a021e44e6948b44'}
+  - {seq: 8, role: markers, filename: assets/KR3ea031_008.markers.yaml, hash: 'sha256:e450563ff6c30b83431e79be2056d55a5c4912a924aaabbe2fd4aefa727bf9e4'}
+  - {seq: 9, role: markers, filename: assets/KR3ea031_009.markers.yaml, hash: 'sha256:452202ecd7208c9365950457ad85e673b5e65f69bb6a98c9a1a8a5c415d5efa4'}
+  - {seq: 10, role: markers, filename: assets/KR3ea031_010.markers.yaml, hash: 'sha256:aaa3189dec90476b04092feb08378bee448992c6f49e325d24fc62c1ec0d5bef'}
+  - {seq: 11, role: markers, filename: assets/KR3ea031_011.markers.yaml, hash: 'sha256:664d903fa23c7ae74cfde9d74ba57d80ddcea005de8aa2ac95e576652a307c9d'}
+  - {seq: 12, role: markers, filename: assets/KR3ea031_012.markers.yaml, hash: 'sha256:260fae65469b53c8b58b765ab7d8836ceba4a2f98b51bd58c8e4fd3184578f8b'}
+  - {seq: 13, role: markers, filename: assets/KR3ea031_013.markers.yaml, hash: 'sha256:065eedd30b935f5e4b372f3d8ea8c12cf6ff229f6a142c810481df71d1ff1833'}
+  - {seq: 14, role: markers, filename: assets/KR3ea031_014.markers.yaml, hash: 'sha256:6e4e07bbe4d0b01fb481b8d9d66b4880c4c41fccc904dca07a73c7cf495a7deb'}
+  - {seq: 15, role: markers, filename: assets/KR3ea031_015.markers.yaml, hash: 'sha256:8d13c7f618f38a3bfb656f28adc73fe181f7980c2aa2f7f14244802c303f19cc'}
+  - {seq: 16, role: markers, filename: assets/KR3ea031_016.markers.yaml, hash: 'sha256:98328576cb4b28d64ffa9bb52c0ba9935a855bf26252f37e6b810cdbda8b0627'}
+  - {seq: 19, role: markers, filename: assets/KR3ea031_019.markers.yaml, hash: 'sha256:a698e041fe2b30e6f67e5ca9854806290b9ca2e9d92a132a640b0d57eec8ca17'}
+  - {seq: 21, role: markers, filename: assets/KR3ea031_021.markers.yaml, hash: 'sha256:4b2ce3380ec27fc100af09e7abe9c35ed60a196d387d70efc92ee0f33876e6e9'}
+  - {seq: 22, role: markers, filename: assets/KR3ea031_022.markers.yaml, hash: 'sha256:ff08e6cb8316fff680af23dfe481a9922ebe793f32e5d6637e4caa56bb47f2f8'}
+  - {seq: 23, role: markers, filename: assets/KR3ea031_023.markers.yaml, hash: 'sha256:9450ba36b1ed63b00ff17eef724e3514a948c65c89928dade8ee8cfff9a09e60'}
+  - {seq: 24, role: markers, filename: assets/KR3ea031_024.markers.yaml, hash: 'sha256:b8c89b4859ff1b4004c547224f430d418385e488285aa4133d1f66f981f6c2f6'}
+  - {seq: 25, role: markers, filename: assets/KR3ea031_025.markers.yaml, hash: 'sha256:0e14585035d317422a0510a006f097bcdd5423e8971753960cee18ee11b89268'}
+  - {seq: 26, role: markers, filename: assets/KR3ea031_026.markers.yaml, hash: 'sha256:810e3e076975b074e72608c1b540643662f7c4c8e74da3d756917edc22abe847'}
+  - {seq: 27, role: markers, filename: assets/KR3ea031_027.markers.yaml, hash: 'sha256:c2b12e7a4cd1dfadf473b6566000fde8cf3992d225acfedca53fd8f4607892d2'}
+  - {seq: 28, role: markers, filename: assets/KR3ea031_028.markers.yaml, hash: 'sha256:f09c6fdddb58bb5597f02bed0ecb4982dc0a0b6da4e2bea9db8fe27c12534197'}
+  - {seq: 29, role: markers, filename: assets/KR3ea031_029.markers.yaml, hash: 'sha256:dca299c1a0cbb2b1fec6992301097ca8b04583772a69d3f0465211c1c964848c'}
+  - {seq: 30, role: markers, filename: assets/KR3ea031_030.markers.yaml, hash: 'sha256:3a715c660c8c595096766d4035d7d0d31cebec18d9d2e2f5248a76a200a1c2a6'}
+  - {seq: 0, role: markers, filename: assets/KR3ea031_000.markers.yaml, hash: 'sha256:1a86fe4b019f1815a95a50d5d547f9c492b44cf95ff5069761f9f42490e85ae8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ea031_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 卷第一佚
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ea031_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 12291
+  label: 卷第二卷末缺攝生之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ea031_jc_002-d3d2
+    span:
+    - body
+    - 10
+    - 4671
+  label: 順養
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea031_jc_002-d3d3
+    span:
+    - body
+    - 4671
+    - 5620
+  label: 六氣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea031_jc_002-d3d4
+    span:
+    - body
+    - 5620
+    - 6819
+  label: 九氣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea031_jc_002-d3d5
+    span:
+    - body
+    - 6819
+    - 10328
+  label: 調食
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea031_jc_002-d3d6
+    span:
+    - body
+    - 10328
+    - 12291
+  label: 壽限
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea031_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 15111
+  label: 卷第三卷首缺陰陽
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea031_jc_003-d4d10
+    span:
+    - body
+    - 5526
+    - 9294
+  label: 調陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea031_jc_003-d4d11
+    span:
+    - body
+    - 9294
+    - 15111
+  label: 陰陽雜說
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea031_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 卷第四佚
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ea031_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 9099
+  label: 卷第五卷首缺人合
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ea031_jc_005-d6d6
+    span:
+    - body
+    - 522
+    - 4432
+  label: 陰陽合
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea031_jc_005-d6d7
+    span:
+    - body
+    - 4432
+    - 5563
+  label: 四海合
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea031_jc_005-d6d8
+    span:
+    - body
+    - 5563
+    - 9099
+  label: 十二水
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea031_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 13457
+  label: 卷第六卷首缺臟腑之一
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ea031_jc_006-d7d6
+    span:
+    - body
+    - 3205
+    - 7261
+  label: 五臟命分
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea031_jc_006-d7d7
+    span:
+    - body
+    - 7261
+    - 8393
+  label: 臟腑應候
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea031_jc_006-d7d8
+    span:
+    - body
+    - 8393
+    - 13457
+  label: 臟腑氣液
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ea031_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 卷第七佚
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ea031_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 13498
+  label: 卷第八卷首缺經脈之一
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ea031_jc_008-d9d36
+    span:
+    - body
+    - 9766
+    - 12883
+  label: 經脈病解
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea031_jc_008-d9d37
+    span:
+    - body
+    - 12883
+    - 13498
+  label: 陽明脈解
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea031_jc_009-d10.h1s1
+    span:
+    - body
+    - 0
+    - 11513
+  label: 卷第九經脈之二
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ea031_jc_009-d10d2
+    span:
+    - body
+    - 7
+    - 2170
+  label: 經脈正別
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea031_jc_009-d10d3
+    span:
+    - body
+    - 2170
+    - 5484
+  label: 脈行同異
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea031_jc_009-d10d4
+    span:
+    - body
+    - 5484
+    - 6892
+  label: 經絡別異
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea031_jc_009-d10d5
+    span:
+    - body
+    - 6892
+    - 9289
+  label: 十五絡脈
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea031_jc_009-d10d6
+    span:
+    - body
+    - 9289
+    - 11513
+  label: 經脈皮部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11.h1s1
+    span:
+    - body
+    - 0
+    - 11211
+  label: 卷第十經脈之三
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d2
+    span:
+    - body
+    - 7
+    - 1134
+  label: 督脈
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d3
+    span:
+    - body
+    - 1134
+    - 1608
+  label: 帶脈
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d4
+    span:
+    - body
+    - 1608
+    - 2785
+  label: 陰陽喬脈
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d5
+    span:
+    - body
+    - 2785
+    - 4432
+  label: 任脈
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d6
+    span:
+    - body
+    - 4432
+    - 6085
+  label: 衝脈
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d7
+    span:
+    - body
+    - 6085
+    - 6350
+  label: 陰陽維脈
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d8
+    span:
+    - body
+    - 6350
+    - 8879
+  label: 經脈標本
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea031_jc_010-d11d9
+    span:
+    - body
+    - 8879
+    - 11211
+  label: 經脈根結
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea031_jc_011-d12.h1s1
+    span:
+    - body
+    - 0
+    - 18782
+  label: 卷第十一輸穴
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ea031_jc_011-d12d2
+    span:
+    - body
+    - 6
+    - 5526
+  label: 本輸
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea031_jc_011-d12d3
+    span:
+    - body
+    - 5526
+    - 7231
+  label: 變輸
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea031_jc_011-d12d4
+    span:
+    - body
+    - 7231
+    - 9163
+  label: 腑病合輸
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea031_jc_011-d12d5
+    span:
+    - body
+    - 9163
+    - 13489
+  label: 氣穴
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea031_jc_011-d12d6
+    span:
+    - body
+    - 13489
+    - 16772
+  label: 氣府
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea031_jc_011-d12d7
+    span:
+    - body
+    - 16772
+    - 18782
+  label: 骨空
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ea031_jc_012-d13.h1s1
+    span:
+    - body
+    - 0
+    - 9121
+  label: 卷第十二卷首缺營衛氣
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ea031_jc_012-d13d12
+    span:
+    - body
+    - 2484
+    - 5594
+  label: 營衛氣行
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ea031_jc_012-d13d13
+    span:
+    - body
+    - 5594
+    - 6496
+  label: 營五十周
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ea031_jc_012-d13d14
+    span:
+    - body
+    - 6496
+    - 9121
+  label: 衛五十周
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea031_jc_013-d14.h1s1
+    span:
+    - body
+    - 0
+    - 9800
+  label: 卷第十三身度
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ea031_jc_013-d14d2
+    span:
+    - body
+    - 6
+    - 4647
+  label: 經筋
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea031_jc_013-d14d3
+    span:
+    - body
+    - 4647
+    - 6460
+  label: 骨度
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea031_jc_013-d14d4
+    span:
+    - body
+    - 6460
+    - 8492
+  label: 腸度
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea031_jc_013-d14d5
+    span:
+    - body
+    - 8492
+    - 9800
+  label: 脈度
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea031_jc_014-d15.h1s1
+    span:
+    - body
+    - 0
+    - 19010
+  label: 卷第十四卷首缺診候之一
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ea031_jc_014-d15d6
+    span:
+    - body
+    - 3596
+    - 6084
+  label: 四時脈形
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea031_jc_014-d15d7
+    span:
+    - body
+    - 6084
+    - 7734
+  label: 真臟脈形
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea031_jc_014-d15d8
+    span:
+    - body
+    - 7734
+    - 10404
+  label: 四時脈診
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea031_jc_014-d15d9
+    span:
+    - body
+    - 10404
+    - 19010
+  label: 人迎脈口診
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea031_jc_015-d16.h1s1
+    span:
+    - body
+    - 0
+    - 20509
+  label: 卷第十五診候之二
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ea031_jc_015-d16d2
+    span:
+    - body
+    - 8
+    - 3762
+  label: 色脈診
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea031_jc_015-d16d3
+    span:
+    - body
+    - 3762
+    - 5278
+  label: 色脈尺診
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea031_jc_015-d16d4
+    span:
+    - body
+    - 5278
+    - 6443
+  label: 尺診
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea031_jc_015-d16d5
+    span:
+    - body
+    - 6443
+    - 10860
+  label: 尺寸診
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea031_jc_015-d16d6
+    span:
+    - body
+    - 10860
+    - 20509
+  label: 五臟脈診
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ea031_jc_016-d17.h1s1
+    span:
+    - body
+    - 0
+    - 12659
+  label: 卷第十六診候之三
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ea031_jc_016-d17d2
+    span:
+    - body
+    - 8
+    - 2202
+  label: 虛實脈診
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ea031_jc_016-d17d3
+    span:
+    - body
+    - 2202
+    - 5750
+  label: 雜診
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ea031_jc_016-d17d4
+    span:
+    - body
+    - 5750
+    - 12659
+  label: 脈論
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ea031_jc_017-d18.h1s1
+    span:
+    - body
+    - 0
+    - 1216
+  label: 卷第十七卷首缺只餘卷尾篇目亦缺證候之一
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3ea031_jc_018-d19.h1s1
+    span:
+    - body
+    - 0
+    - 5
+  label: 卷第十八佚
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20.h1s1
+    span:
+    - body
+    - 0
+    - 15253
+  label: 卷第十九設方
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d2
+    span:
+    - body
+    - 6
+    - 934
+  label: 知古今
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d3
+    span:
+    - body
+    - 934
+    - 2127
+  label: 知要道
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d4
+    span:
+    - body
+    - 2127
+    - 3392
+  label: 知方地
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d5
+    span:
+    - body
+    - 3392
+    - 4753
+  label: 知形志所宜
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d6
+    span:
+    - body
+    - 4753
+    - 5366
+  label: 知祝由
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d7
+    span:
+    - body
+    - 5366
+    - 11261
+  label: 知針石
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d8
+    span:
+    - body
+    - 11261
+    - 12254
+  label: 知湯藥
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea031_jc_019-d20d9
+    span:
+    - body
+    - 12254
+    - 15253
+  label: 知官能
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ea031_jc_020-d21.h1s1
+    span:
+    - body
+    - 0
+    - 5
+  label: 卷第二十佚
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3ea031_jc_021-d22.h1s1
+    span:
+    - body
+    - 0
+    - 6065
+  label: 卷第二十一九針之一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3ea031_jc_021-d22d2
+    span:
+    - body
+    - 9
+    - 1744
+  label: 九針要道
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ea031_jc_021-d22d3
+    span:
+    - body
+    - 1744
+    - 3829
+  label: 九針要解
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ea031_jc_021-d22d4
+    span:
+    - body
+    - 3829
+    - 4799
+  label: 諸原所生
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ea031_jc_021-d22d5
+    span:
+    - body
+    - 4799
+    - 6065
+  label: 九針所象
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23.h1s1
+    span:
+    - body
+    - 0
+    - 13951
+  label: 卷第二十二九針之二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d2
+    span:
+    - body
+    - 9
+    - 3549
+  label: 刺法
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d3
+    span:
+    - body
+    - 3549
+    - 4178
+  label: 九針所主
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d4
+    span:
+    - body
+    - 4178
+    - 6947
+  label: 三刺
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d5
+    span:
+    - body
+    - 6947
+    - 7743
+  label: 三變刺
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d6
+    span:
+    - body
+    - 7743
+    - 8143
+  label: 五刺
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d7
+    span:
+    - body
+    - 8143
+    - 8875
+  label: 五臟刺
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d8
+    span:
+    - body
+    - 8875
+    - 11132
+  label: 五節刺
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d9
+    span:
+    - body
+    - 11132
+    - 13947
+  label: 五邪刺
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea031_jc_022-d23d10
+    span:
+    - body
+    - 13947
+    - 13951
+  label: 十二刺佚
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea031_jc_023-d24.h1s1
+    span:
+    - body
+    - 0
+    - 13243
+  label: 卷第二十三九針之三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3ea031_jc_023-d24d2
+    span:
+    - body
+    - 9
+    - 4926
+  label: 量繆刺
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea031_jc_023-d24d3
+    span:
+    - body
+    - 4926
+    - 5757
+  label: 量氣刺
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea031_jc_023-d24d4
+    span:
+    - body
+    - 5757
+    - 6389
+  label: 量順刺
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea031_jc_023-d24d5
+    span:
+    - body
+    - 6389
+    - 7946
+  label: 疽癰逆順刺
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea031_jc_023-d24d6
+    span:
+    - body
+    - 7946
+    - 8926
+  label: 量絡刺
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea031_jc_023-d24d7
+    span:
+    - body
+    - 8926
+    - 13243
+  label: 雜刺
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea031_jc_024-d25.h1s1
+    span:
+    - body
+    - 0
+    - 12183
+  label: 卷第二十四補瀉
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3ea031_jc_024-d25d2
+    span:
+    - body
+    - 7
+    - 1014
+  label: 天忌
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea031_jc_024-d25d3
+    span:
+    - body
+    - 1014
+    - 2768
+  label: 本神論
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea031_jc_024-d25d4
+    span:
+    - body
+    - 2768
+    - 5351
+  label: 真邪補瀉
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea031_jc_024-d25d5
+    span:
+    - body
+    - 5351
+    - 8404
+  label: 虛實補瀉
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea031_jc_024-d25d6
+    span:
+    - body
+    - 8404
+    - 12183
+  label: 虛實所生
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26.h1s1
+    span:
+    - body
+    - 0
+    - 19119
+  label: 卷第二十五傷寒
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26d2
+    span:
+    - body
+    - 7
+    - 2489
+  label: 熱病決
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26d3
+    span:
+    - body
+    - 2489
+    - 6878
+  label: 熱病說
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26d4
+    span:
+    - body
+    - 6878
+    - 9956
+  label: 五臟熱病
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26d5
+    span:
+    - body
+    - 9956
+    - 11745
+  label: 五臟痿
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26d6
+    span:
+    - body
+    - 11745
+    - 13798
+  label: 瘧解
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26d7
+    span:
+    - body
+    - 13798
+    - 16197
+  label: 三瘧
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ea031_jc_025-d26d8
+    span:
+    - body
+    - 16197
+    - 19119
+  label: 十二瘧
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27.h1s1
+    span:
+    - body
+    - 0
+    - 18317
+  label: 卷第二十六寒熱
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d2
+    span:
+    - body
+    - 7
+    - 1796
+  label: 寒熱厥
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d3
+    span:
+    - body
+    - 1796
+    - 3956
+  label: 經脈厥
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d4
+    span:
+    - body
+    - 3956
+    - 5530
+  label: 寒熱相移
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d5
+    span:
+    - body
+    - 5530
+    - 6951
+  label: 厥頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d6
+    span:
+    - body
+    - 6951
+    - 8536
+  label: 厥心痛
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d7
+    span:
+    - body
+    - 8536
+    - 12974
+  label: 寒熱雜說
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d8
+    span:
+    - body
+    - 12974
+    - 16263
+  label: 癰疽
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d9
+    span:
+    - body
+    - 16263
+    - 17120
+  label: 蟲癰
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d10
+    span:
+    - body
+    - 17120
+    - 17674
+  label: 寒熱瘰癧
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ea031_jc_026-d27d11
+    span:
+    - body
+    - 17674
+    - 18317
+  label: 灸寒熱法
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ea031_jc_027-d28.h1s1
+    span:
+    - body
+    - 0
+    - 12304
+  label: 卷第二十七邪論
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3ea031_jc_027-d28d2
+    span:
+    - body
+    - 7
+    - 2241
+  label: 七邪
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ea031_jc_027-d28d3
+    span:
+    - body
+    - 2241
+    - 5135
+  label: 十二邪
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ea031_jc_027-d28d4
+    span:
+    - body
+    - 5135
+    - 7031
+  label: 邪客
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ea031_jc_027-d28d5
+    span:
+    - body
+    - 7031
+    - 8634
+  label: 邪中
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ea031_jc_027-d28d6
+    span:
+    - body
+    - 8634
+    - 12304
+  label: 邪傳
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29.h1s1
+    span:
+    - body
+    - 0
+    - 11596
+  label: 卷第二十八風
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29d2
+    span:
+    - body
+    - 6
+    - 1680
+  label: 諸風數類
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29d3
+    span:
+    - body
+    - 1680
+    - 2880
+  label: 諸風狀論
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29d4
+    span:
+    - body
+    - 2880
+    - 3672
+  label: 諸風雜論
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29d5
+    span:
+    - body
+    - 3672
+    - 5262
+  label: 九宮八風
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29d6
+    span:
+    - body
+    - 5262
+    - 6638
+  label: 三虛三實
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29d7
+    span:
+    - body
+    - 6638
+    - 7682
+  label: 八正風候
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ea031_jc_028-d29d8
+    span:
+    - body
+    - 7682
+    - 11596
+  label: 痹論
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ea031_jc_029-d30.h1s1
+    span:
+    - body
+    - 0
+    - 9846
+  label: 卷第二十九卷首缺氣論
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3ea031_jc_029-d30d6
+    span:
+    - body
+    - 845
+    - 1927
+  label: 津液
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ea031_jc_029-d30d7
+    span:
+    - body
+    - 1927
+    - 3876
+  label: 水論
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ea031_jc_029-d30d8
+    span:
+    - body
+    - 3876
+    - 7201
+  label: 脹論
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ea031_jc_029-d30d9
+    span:
+    - body
+    - 7201
+    - 8449
+  label: 風水論
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ea031_jc_029-d30d10
+    span:
+    - body
+    - 8449
+    - 9846
+  label: 咳論
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31.h1s1
+    span:
+    - body
+    - 0
+    - 16713
+  label: 卷第三十雜病
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d4
+    span:
+    - body
+    - 199
+    - 623
+  label: 重身病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d5
+    span:
+    - body
+    - 623
+    - 810
+  label: 溫暑病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d6
+    span:
+    - body
+    - 810
+    - 1146
+  label: 四時之變
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d7
+    span:
+    - body
+    - 1146
+    - 1355
+  label: 息積病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d8
+    span:
+    - body
+    - 1355
+    - 1941
+  label: 伏梁病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d9
+    span:
+    - body
+    - 1941
+    - 2207
+  label: 熱痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d10
+    span:
+    - body
+    - 2207
+    - 2504
+  label: 脾癉消渴
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d11
+    span:
+    - body
+    - 2504
+    - 2721
+  label: 膽癉
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d12
+    span:
+    - body
+    - 2721
+    - 2953
+  label: 頭齒痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d13
+    span:
+    - body
+    - 2953
+    - 3087
+  label: 頜痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d14
+    span:
+    - body
+    - 3087
+    - 3163
+  label: 項痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d15
+    span:
+    - body
+    - 3163
+    - 3486
+  label: 喉痹嗌乾
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d16
+    span:
+    - body
+    - 3486
+    - 3665
+  label: 目痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d17
+    span:
+    - body
+    - 3665
+    - 4063
+  label: 耳聾
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d18
+    span:
+    - body
+    - 4063
+    - 4196
+  label: 衄血
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d19
+    span:
+    - body
+    - 4196
+    - 4300
+  label: 喜怒
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d20
+    span:
+    - body
+    - 4300
+    - 4461
+  label: 疹筋
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d21
+    span:
+    - body
+    - 4461
+    - 4839
+  label: 血枯
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d22
+    span:
+    - body
+    - 4839
+    - 4941
+  label: 熱煩
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d23
+    span:
+    - body
+    - 4941
+    - 5059
+  label: 身寒
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d24
+    span:
+    - body
+    - 5059
+    - 5292
+  label: 肉爍
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d25
+    span:
+    - body
+    - 5292
+    - 6058
+  label: 臥息喘逆
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d26
+    span:
+    - body
+    - 6058
+    - 6217
+  label: 少氣
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d27
+    span:
+    - body
+    - 6217
+    - 6374
+  label: 氣逆滿
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d28
+    span:
+    - body
+    - 6374
+    - 6484
+  label: 療噦
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d29
+    span:
+    - body
+    - 6484
+    - 8876
+  label: 腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d30
+    span:
+    - body
+    - 8876
+    - 8968
+  label: 髀疾
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d31
+    span:
+    - body
+    - 8968
+    - 9037
+  label: 膝痛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d32
+    span:
+    - body
+    - 9037
+    - 9116
+  label: 痿厥
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d33
+    span:
+    - body
+    - 9116
+    - 9284
+  label: 𤸇泄
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d34
+    span:
+    - body
+    - 9284
+    - 9568
+  label: 如蠱如妲病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d35
+    span:
+    - body
+    - 9568
+    - 10573
+  label: 癲疾
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d36
+    span:
+    - body
+    - 10573
+    - 11207
+  label: 驚狂
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d37
+    span:
+    - body
+    - 11207
+    - 11683
+  label: 厥逆
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d38
+    span:
+    - body
+    - 11683
+    - 12089
+  label: 厥死
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d39
+    span:
+    - body
+    - 12089
+    - 12478
+  label: 陽厥
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d40
+    span:
+    - body
+    - 12478
+    - 12640
+  label: 風逆
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d41
+    span:
+    - body
+    - 12640
+    - 12753
+  label: 風痓
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d42
+    span:
+    - body
+    - 12753
+    - 12901
+  label: 酒風
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d43
+    span:
+    - body
+    - 12901
+    - 13291
+  label: 經解
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d44
+    span:
+    - body
+    - 13291
+    - 13505
+  label: 身度
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d45
+    span:
+    - body
+    - 13505
+    - 13868
+  label: 經絡虛實
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d46
+    span:
+    - body
+    - 13868
+    - 14003
+  label: 禁極虛
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d47
+    span:
+    - body
+    - 14003
+    - 14388
+  label: 順時
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d48
+    span:
+    - body
+    - 14388
+    - 14986
+  label: 刺瘧節度
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d49
+    span:
+    - body
+    - 14986
+    - 15593
+  label: 刺腹滿數
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d50
+    span:
+    - body
+    - 15593
+    - 15705
+  label: 刺霍亂數
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d51
+    span:
+    - body
+    - 15705
+    - 15944
+  label: 刺癇驚數
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d52
+    span:
+    - body
+    - 15944
+    - 16148
+  label: 刺腋癰數
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d53
+    span:
+    - body
+    - 16148
+    - 16426
+  label: 病解
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d54
+    span:
+    - body
+    - 16426
+    - 16501
+  label: 久逆生病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d55
+    span:
+    - body
+    - 16501
+    - 16545
+  label: 六腑生病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d56
+    span:
+    - body
+    - 16545
+    - 16600
+  label: 腸胃生病
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ea031_jc_030-d31d57
+    span:
+    - body
+    - 16600
+    - 16713
+  label: 經輸所療
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea031_jc_000-d33.h1s1
+    span:
+    - front
+    - 0
+    - 1638
+  label: 校正內經太素楊注後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea031_jc_000-d32.h1s1
+    span:
+    - body
+    - 0
+    - 2510
+  label: 附篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea031_jc_000-d32d2
+    span:
+    - body
+    - 2
+    - 2510
+  label: 黃帝內經太素遺文並楊氏原注
+  type: section
+  level: 2
+hash: sha256:54f4ebd058f22eb291258b114fd54ee283fcacef681e7cce82750e5e2a031871
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
